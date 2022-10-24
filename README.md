@@ -1,2 +1,2 @@
 # Demo
-https://souhype.github.io/endlessRun/
+https://souhype.github.io/Endless_Runner/
